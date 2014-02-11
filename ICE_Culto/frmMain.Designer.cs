@@ -724,7 +724,7 @@
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(67, 13);
             this.label18.TabIndex = 80;
-            this.label18.Text = "Versão 1.0.2";
+            this.label18.Text = "Versão 1.0.3";
             // 
             // btnCommon5
             // 
