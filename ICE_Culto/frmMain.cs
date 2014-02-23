@@ -536,6 +536,7 @@ namespace WindowsFormsApplication1
 
                     strFilePath = fileChosen;
                     isListSaved = true;
+                    habilitarEraseButtons();
                 }
 
             }
@@ -543,6 +544,24 @@ namespace WindowsFormsApplication1
             {
                 MessageBox.Show("Não há uma lista de slides previamente salva!");
             }
+        }
+
+        private void habilitarEraseButtons()
+        {
+
+            for (int i = 0; i <= 14; i++) 
+            {
+                TextBox caixaTexto = caixas[i];
+                if (caixaTexto.Text == "")
+                {
+                    eraseButtons[i].Enabled = false;
+                }
+                else
+                {
+                    eraseButtons[i].Enabled = true;
+                }
+            }
+
         }
 
         private void sobreToolStripMenuItem_Click(object sender, EventArgs e)

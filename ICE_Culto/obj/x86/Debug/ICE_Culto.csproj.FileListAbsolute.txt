@@ -25,3 +25,16 @@ C:\Users\Giulliano\Documents\Visual Studio 2010\Projects\ICE_Culto\ICE_Culto\obj
 C:\Users\Giulliano\Documents\Visual Studio 2010\Projects\ICE_Culto\ICE_Culto\obj\x86\Debug\ICE_Culto.application
 C:\Users\Giulliano\Documents\Visual Studio 2010\Projects\ICE_Culto\ICE_Culto\obj\x86\Debug\ICE_Culto.csprojResolveAssemblyReference.cache
 C:\Users\Giulliano\Documents\Visual Studio 2010\Projects\ICE_Culto\ICE_Culto\obj\x86\Debug\ICE_Culto.csproj.GenerateResource.Cache
+C:\ICE_Culto\ICE_Culto\bin\Debug\ICE_Culto.exe.config
+C:\ICE_Culto\ICE_Culto\obj\x86\Debug\ICE_Culto.exe
+C:\ICE_Culto\ICE_Culto\obj\x86\Debug\ICE_Culto.pdb
+C:\ICE_Culto\ICE_Culto\bin\Debug\ICE_Culto.exe.manifest
+C:\ICE_Culto\ICE_Culto\bin\Debug\ICE_Culto.application
+C:\ICE_Culto\ICE_Culto\bin\Debug\ICE_Culto.exe
+C:\ICE_Culto\ICE_Culto\bin\Debug\ICE_Culto.pdb
+C:\ICE_Culto\ICE_Culto\obj\x86\Debug\ICE_Culto.csprojResolveAssemblyReference.cache
+C:\ICE_Culto\ICE_Culto\obj\x86\Debug\WindowsFormsApplication1.frmMain.resources
+C:\ICE_Culto\ICE_Culto\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\ICE_Culto\ICE_Culto\obj\x86\Debug\ICE_Culto.csproj.GenerateResource.Cache
+C:\ICE_Culto\ICE_Culto\obj\x86\Debug\ICE_Culto.exe.manifest
+C:\ICE_Culto\ICE_Culto\obj\x86\Debug\ICE_Culto.application

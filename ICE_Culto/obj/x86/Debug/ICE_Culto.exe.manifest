@@ -49,17 +49,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>5kGD+8fU0c0IIIpM74ObMGNV0eA=</dsig:DigestValue>
+        <dsig:DigestValue>HZtjriP6poEjFSj7WNHiBOW6ouM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="ICE_Culto.exe.config" size="352">
+  <file name="ICE_Culto.exe.config" size="574">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>GAfzLSDk0lUjcnxDhppRRFWRAlQ=</dsig:DigestValue>
+      <dsig:DigestValue>cIeD/3van1CJl8+g5vOCAnJEWs8=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
